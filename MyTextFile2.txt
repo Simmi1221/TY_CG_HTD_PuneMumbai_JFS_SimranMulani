@@ -1,0 +1,5 @@
+Three basic operations we perform to maintain local repository to global
+repository
+1.Clone->It will create exact copy of global repo
+2.Commit->it will save the files
+3.Push->It will add the files into global repo
